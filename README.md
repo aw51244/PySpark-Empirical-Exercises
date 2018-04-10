@@ -1,2 +1,3 @@
 # PySpark-Empirical-Exercises
-Student Projects on SparkML with Python
+Three student Projects on SparkML with Python.
+
